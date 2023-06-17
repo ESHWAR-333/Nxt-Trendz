@@ -24,7 +24,6 @@ Authorization, Authentication
 
 
 **The following  are credentials**
-<details>
 - Prime User credentials
 
   ```text
